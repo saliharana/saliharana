@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🌱 I have learned, I am still learning, I will learn.<br>💙 I'm a data scientist.</p>
+<p align="left">🌱 I have learned, I am still learning, I will learn.<br>💙.</p>
 
 ###
 
